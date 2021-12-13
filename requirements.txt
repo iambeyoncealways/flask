@@ -29,7 +29,7 @@ Jinja2==2.10
 lazy-object-proxy==1.3.1
 livingdocs==0.2.0
 locustio==0.9.0
-lxml==4.2.1
+lxml==4.6.5
 MarkupSafe==1.0
 mccabe==0.6.1
 more-itertools==4.3.0
